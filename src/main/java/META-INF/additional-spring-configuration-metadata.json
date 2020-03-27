@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "jsa.aws.access_key_id",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.aws.access_key_id'"
+  },
+  {
+    "name": "jsa.aws.secret_access_key",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.aws.secret_access_key'"
+  },
+  {
+    "name": "jsa.s3.region",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.s3.region'"
+  },
+  {
+    "name": "jsa.s3.key",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.s3.key'"
+  },
+  {
+    "name": "jsa.s3.uploadfile",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.s3.uploadfile'"
+  },
+  {
+    "name": "jsa.s3.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.s3.bucket'"
+  },
+  {
+    "name": "jsa.s3.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.s3.bucket'"
+  }
+]}

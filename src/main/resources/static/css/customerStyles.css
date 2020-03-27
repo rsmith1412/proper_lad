@@ -1,0 +1,59 @@
+/* MIdnight-Blue: #003366 */
+
+@charset "UTF-8";
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Hiragino Kaku Gothic ProN;
+}
+body {
+	/* background-color: gray; */
+	width: 95%;
+	margin: 0 auto;
+}
+header {
+	background-color: #003366;
+}
+header a {
+	color: white;
+	right: 5%;
+	/* float: right; */
+}
+nav {
+	padding: 20px;
+	background-color: #003366;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	align-items: center; 
+	/* width: 95%; */
+	margin: 30px auto;
+	border-radius: 10px;
+	font-family: Hiragino Kaku Gothic ProN;
+}
+h2 {
+	text-align: center;
+	color: #003366;
+}
+a:hover {
+	color: white;
+	/* border-bottom: 1px solid white; */
+}
+/* header h3 {
+	justify-content: space-between;
+} */
+
+/* .right {
+} */
+.addToCart {
+	padding: 5px;
+	border-radius: 5px;
+	color: #003366;
+	border-color: #003366;
+	background-color: white;
+}
+.addToCart:hover {
+	background-color: #003366;
+	color: white;
+	border-color: white;
+}
